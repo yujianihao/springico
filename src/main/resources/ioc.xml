@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="Person" class="com.example.demo.learn.domain.Person">
+        <!--<property name="age" value="20"></property>-->
+        <property name="name" value="孔明"></property>
+    </bean>
+</beans>
